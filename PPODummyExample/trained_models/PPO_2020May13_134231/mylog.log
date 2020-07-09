@@ -1,0 +1,2 @@
+--- INFO ---
+args: Namespace(clip=0.2, entropy=0.0, env=<OpenAI.gym_shoulder.gym_OneMuscle.envs.test_envs.TestEnv object at 0x7f06f720ff28>, gamma=0.99, grad_norm=0.01, hidden_layer_size=256, load_path='trained_models/PPO_2019May22_162736/network1.0', lr=0.001, lr_end=7e-05, max_frames=4000000, mini_batch_size=250, nb_actions=1, nb_states=4, nb_steps=500, num_envs=4, optimizer=<class 'torch.optim.adam.Adam'>, output_scaling=1, play=False, ppo_epochs=4, seed=1, tau=0.95, vis=False)
