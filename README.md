@@ -33,3 +33,4 @@ cd PPODummyExample
 python main.py --vis True
 ```
 Training is very slow if vis is set true.
+For all availabe aruments please have a look at PPODummyExample/main.py
