@@ -3,7 +3,7 @@
 ## Set up python environment
 1. Clone OpenAI gym and OpenAI baselines
 2. Copy the test_envs.py to OpenAI/gym_shoulder/gym_OneMuscle/envs/ (Create the directory first)
-3. Copy the __init__.py to the same directory
+3. Copy the init.py to the same directory
 4. Copy the setup.py to OpenAI/gym_shoulder/
 5. Download and install conda
 6. Set up the virtual environment
