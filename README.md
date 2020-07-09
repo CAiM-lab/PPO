@@ -1,7 +1,7 @@
 # RLmuscle
 
 ## Set up python environment
-1. Clone OpenAI gym and openAI baselines
+1. Clone OpenAI gym and OpenAI baselines
 2. Copy the test_envs.py to OpenAI/gym_shoulder/gym_OneMuscle/envs/ (Create the directory first)
 3. Copy the __init__.py to the same directory
 4. Copy the setup.py to OpenAI/gym_shoulder/
@@ -20,3 +20,16 @@ pip install -e .
 cd OpenAI/gym
 pip install -e .
 ```
+## Run pretrained test Example
+```console
+source activate PPO
+cd PPODummyExample
+python main.py --play True
+```
+## Train test Example
+```console
+source activate PPO
+cd PPODummyExample
+python main.py --vis True
+```
+Training is very slow if vis is set true.
