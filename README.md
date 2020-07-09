@@ -20,13 +20,13 @@ pip install -e .
 cd OpenAI/gym
 pip install -e .
 ```
-## Run pretrained test Example
+## Run pretrained test example
 ```console
 source activate PPO
 cd PPODummyExample
 python main.py --play True
 ```
-## Train test Example
+## Train test example
 ```console
 source activate PPO
 cd PPODummyExample
