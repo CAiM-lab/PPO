@@ -1,4 +1,4 @@
-# RLmuscle
+# PPO
 
 ## Set up python environment
 1. Clone OpenAI gym and OpenAI baselines
