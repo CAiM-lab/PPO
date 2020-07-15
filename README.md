@@ -2,7 +2,8 @@
 ## Introduction
 This is our PPO implementation used for reinforcement learning of a controller in:\
 > Emanuel Joos, Fabien Pean, Orcun Goksel: 
-"Reinforcement Learning of Musculoskeletal Control from Functional Simulations", 2020.
+"Reinforcement Learning of Musculoskeletal Control from Functional Simulations", 
+[arXiv:2007.06669](https://arxiv.org/abs/2007.06669), 2020.
 
 If you use this code, please cite the work above.\
 Installation instructions and a simple demo example are given below.
