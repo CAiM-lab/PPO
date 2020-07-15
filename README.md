@@ -1,8 +1,8 @@
 # PPO : Proximal Policy Optimization 
 ## Introduction
 This is our PPO implementation used for reinforcement learning of a controller in:\
-> Emanuel Joos, Fabien Pean, Orcun Goksel: 
-"Reinforcement Learning of Musculoskeletal Control from Functional Simulations", 
+> Emanuel Joos, Fabien Pean, Orcun Goksel:\
+"Reinforcement Learning of Musculoskeletal Control from Functional Simulations",\
 [arXiv:2007.06669](https://arxiv.org/abs/2007.06669), 2020.
 
 If you use this code, please cite the work above.\
